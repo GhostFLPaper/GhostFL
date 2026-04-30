@@ -1,0 +1,16 @@
+Training over 1 global epochs
+Training over 1 local epochs
+model:		 alexnet
+dataset:	 cifar10
+batch_size:	 64
+Num of clients:	 16
+Num of groups:	 8
+initialize time= %f sec 0.46793079376220703
+running training global epoch0
+running training on group0
+Files already downloaded and verified
+Files already downloaded and verified
+running training for the data of client0
+/home/sghof001/miniconda3/envs/pysyft/lib/python3.7/site-packages/aiortc/rtcdtlstransport.py:13: CryptographyDeprecationWarning: Python 3.7 is no longer supported by the Python core team and support for it is deprecated in cryptography. The next release of cryptography will remove support for Python 3.7.
+  from cryptography import x509
+Train Epoch: 0 [0/3072 (0%)]	Loss: 2.316490	Time: 580.021s (9.063s/item) [64.000]

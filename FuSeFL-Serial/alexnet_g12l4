@@ -1,0 +1,35 @@
+Training over 12 global epochs
+Training over 4 local epochs
+model:		 alexnet
+dataset:	 cifar10
+batch_size:	 64
+Num of clients:	 16
+Num of groups:	 8
+running training global epoch0
+running training on group0
+Files already downloaded and verified
+Files already downloaded and verified
+running training for the data of client0
+/home/sghof001/miniconda3/envs/pysyft/lib/python3.7/site-packages/aiortc/rtcdtlstransport.py:13: CryptographyDeprecationWarning: Python 3.7 is no longer supported by the Python core team and support for it is deprecated in cryptography. The next release of cryptography will remove support for Python 3.7.
+  from cryptography import x509
+Train Epoch: 0 [0/3072 (0%)]	Loss: 2.321140	Time: 611.355s (9.552s/item) [64.000]
+Train Epoch: 0 [640/3072 (21%)]	Loss: 2.310840	Time: 625.130s (9.768s/item) [64.000]
+Train Epoch: 0 [1280/3072 (42%)]	Loss: 2.313190	Time: 635.675s (9.932s/item) [64.000]
+Train Epoch: 0 [1920/3072 (62%)]	Loss: 2.319300	Time: 654.306s (10.224s/item) [64.000]
+Train Epoch: 0 [2560/3072 (83%)]	Loss: 2.308580	Time: 632.526s (9.883s/item) [64.000]
+
+Train Epoch: 1 [0/3072 (0%)]	Loss: 2.329180	Time: 635.588s (9.931s/item) [64.000]
+Train Epoch: 1 [640/3072 (21%)]	Loss: 2.308370	Time: 645.089s (10.080s/item) [64.000]
+Train Epoch: 1 [1280/3072 (42%)]	Loss: 2.312610	Time: 645.070s (10.079s/item) [64.000]
+Train Epoch: 1 [1920/3072 (62%)]	Loss: 2.312880	Time: 648.588s (10.134s/item) [64.000]
+Train Epoch: 1 [2560/3072 (83%)]	Loss: 2.295550	Time: 664.724s (10.386s/item) [64.000]
+
+Train Epoch: 2 [0/3072 (0%)]	Loss: 2.305470	Time: 664.783s (10.387s/item) [64.000]
+Train Epoch: 2 [640/3072 (21%)]	Loss: 2.264040	Time: 672.170s (10.503s/item) [64.000]
+Train Epoch: 2 [1280/3072 (42%)]	Loss: 2.179190	Time: 654.512s (10.227s/item) [64.000]
+Train Epoch: 2 [1920/3072 (62%)]	Loss: 2.179540	Time: 645.123s (10.080s/item) [64.000]
+Train Epoch: 2 [2560/3072 (83%)]	Loss: 2.202450	Time: 644.441s (10.069s/item) [64.000]
+
+Train Epoch: 3 [0/3072 (0%)]	Loss: 2.139640	Time: 650.895s (10.170s/item) [64.000]
+Train Epoch: 3 [640/3072 (21%)]	Loss: 2.064390	Time: 645.380s (10.084s/item) [64.000]
+Train Epoch: 3 [1280/3072 (42%)]	Loss: 2.024680	Time: 653.708s (10.214s/item) [64.000]

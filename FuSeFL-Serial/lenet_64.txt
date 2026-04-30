@@ -1,0 +1,14 @@
+Training over 1 global epochs
+Training over 1 local epochs
+model:		 lenet
+dataset:	 mnist
+batch_size:	 64
+Num of clients:	 16
+Num of groups:	 8
+initialize time= %f sec 0.2808809280395508
+running training global epoch0
+running training on group0
+running training for the data of client0
+/home/sghof001/miniconda3/envs/pysyft/lib/python3.7/site-packages/aiortc/rtcdtlstransport.py:13: CryptographyDeprecationWarning: Python 3.7 is no longer supported by the Python core team and support for it is deprecated in cryptography. The next release of cryptography will remove support for Python 3.7.
+  from cryptography import x509
+Train Epoch: 0 [0/3712 (0%)]	Loss: 0.979980	Time: 22.271s (0.348s/item) [64.000]
