@@ -1,0 +1,15 @@
+Training over 100 epochs
+model:		 alexnet
+dataset:	 cifar10
+batch_size:	 128
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+TEST Accuracy: 997/9984 (9.99%) 	Time /item: 0.0072s 	Time w. argmax /item: 0.0072s [128.000]
+
+/home/sghof001/miniconda3/envs/pysyft/lib/python3.7/site-packages/aiortc/rtcdtlstransport.py:13: CryptographyDeprecationWarning: Python 3.7 is no longer supported by the Python core team and support for it is deprecated in cryptography. The next release of cryptography will remove support for Python 3.7.
+  from cryptography import x509
+cmd_name torch.flatten not found in autograd
+Train Epoch: 0 [0/49920 (0%)]	Loss: 2.320420	Time: 158.762s (1.240s/item) [128.000]
+cmd_name torch.flatten not found in autograd

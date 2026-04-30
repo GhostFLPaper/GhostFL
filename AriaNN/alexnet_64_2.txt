@@ -1,0 +1,59 @@
+Training over 100 epochs
+model:		 alexnet
+dataset:	 cifar10
+batch_size:	 64
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+/home/sghof001/miniconda3/envs/pysyft/lib/python3.7/site-packages/aiortc/rtcdtlstransport.py:13: CryptographyDeprecationWarning: Python 3.7 is no longer supported by the Python core team and support for it is deprecated in cryptography. The next release of cryptography will remove support for Python 3.7.
+  from cryptography import x509
+Train Epoch: 0 [0/49984 (0%)]	Loss: 2.319950	Time: 571.459s (8.929s/item) [64.000]
+Train Epoch: 0 [640/49984 (1%)]	Loss: 2.319690	Time: 590.448s (9.226s/item) [64.000]
+Train Epoch: 0 [1280/49984 (3%)]	Loss: 2.314210	Time: 590.807s (9.231s/item) [64.000]
+⚠️ #29 loss:3993965.0 RETRY...
+Train Epoch: 0 [1920/49984 (4%)]	Loss: 2.314970	Time: 595.689s (9.308s/item) [64.000]
+Train Epoch: 0 [2560/49984 (5%)]	Loss: 2.319210	Time: 595.017s (9.297s/item) [64.000]
+Train Epoch: 0 [3200/49984 (6%)]	Loss: 2.312960	Time: 607.064s (9.485s/item) [64.000]
+Train Epoch: 0 [3840/49984 (8%)]	Loss: 2.309670	Time: 600.912s (9.389s/item) [64.000]
+Train Epoch: 0 [4480/49984 (9%)]	Loss: 2.328780	Time: 607.869s (9.498s/item) [64.000]
+Train Epoch: 0 [5120/49984 (10%)]	Loss: 2.316820	Time: 620.017s (9.688s/item) [64.000]
+Train Epoch: 0 [5760/49984 (12%)]	Loss: 2.312170	Time: 615.962s (9.624s/item) [64.000]
+Train Epoch: 0 [6400/49984 (13%)]	Loss: 2.313260	Time: 617.635s (9.651s/item) [64.000]
+Train Epoch: 0 [7040/49984 (14%)]	Loss: 2.297530	Time: 626.389s (9.787s/item) [64.000]
+Train Epoch: 0 [7680/49984 (15%)]	Loss: 2.298210	Time: 618.042s (9.657s/item) [64.000]
+Train Epoch: 0 [8320/49984 (17%)]	Loss: 2.312780	Time: 626.351s (9.787s/item) [64.000]
+Train Epoch: 0 [8960/49984 (18%)]	Loss: 2.242480	Time: 619.199s (9.675s/item) [64.000]
+Train Epoch: 0 [9600/49984 (19%)]	Loss: 2.183100	Time: 632.780s (9.887s/item) [64.000]
+Train Epoch: 0 [10240/49984 (20%)]	Loss: 2.233030	Time: 646.141s (10.096s/item) [64.000]
+Train Epoch: 0 [10880/49984 (22%)]	Loss: 2.110220	Time: 645.102s (10.080s/item) [64.000]
+Train Epoch: 0 [11520/49984 (23%)]	Loss: 2.175470	Time: 653.206s (10.206s/item) [64.000]
+Train Epoch: 0 [12160/49984 (24%)]	Loss: 1.964320	Time: 654.607s (10.228s/item) [64.000]
+Train Epoch: 0 [12800/49984 (26%)]	Loss: 2.074400	Time: 656.590s (10.259s/item) [64.000]
+Train Epoch: 0 [13440/49984 (27%)]	Loss: 1.898700	Time: 660.833s (10.326s/item) [64.000]
+Train Epoch: 0 [14080/49984 (28%)]	Loss: 2.091130	Time: 655.323s (10.239s/item) [64.000]
+Train Epoch: 0 [14720/49984 (29%)]	Loss: 2.086370	Time: 653.824s (10.216s/item) [64.000]
+Train Epoch: 0 [15360/49984 (31%)]	Loss: 2.132700	Time: 655.175s (10.237s/item) [64.000]
+Train Epoch: 0 [16000/49984 (32%)]	Loss: 1.926070	Time: 621.362s (9.709s/item) [64.000]
+Train Epoch: 0 [16640/49984 (33%)]	Loss: 1.975340	Time: 624.518s (9.758s/item) [64.000]
+Train Epoch: 0 [17280/49984 (35%)]	Loss: 2.142290	Time: 633.296s (9.895s/item) [64.000]
+Train Epoch: 0 [17920/49984 (36%)]	Loss: 1.932550	Time: 633.420s (9.897s/item) [64.000]
+Train Epoch: 0 [18560/49984 (37%)]	Loss: 1.963750	Time: 636.133s (9.940s/item) [64.000]
+Train Epoch: 0 [19200/49984 (38%)]	Loss: 2.190180	Time: 640.609s (10.010s/item) [64.000]
+Train Epoch: 0 [19840/49984 (40%)]	Loss: 2.023930	Time: 640.149s (10.002s/item) [64.000]
+Train Epoch: 0 [20480/49984 (41%)]	Loss: 1.884420	Time: 635.572s (9.931s/item) [64.000]
+Train Epoch: 0 [21120/49984 (42%)]	Loss: 1.988410	Time: 657.447s (10.273s/item) [64.000]
+Train Epoch: 0 [21760/49984 (44%)]	Loss: 1.883300	Time: 642.087s (10.033s/item) [64.000]
+Train Epoch: 0 [22400/49984 (45%)]	Loss: 1.991150	Time: 649.185s (10.144s/item) [64.000]
+Train Epoch: 0 [23040/49984 (46%)]	Loss: 1.957590	Time: 652.341s (10.193s/item) [64.000]
+Train Epoch: 0 [23680/49984 (47%)]	Loss: 1.769960	Time: 664.044s (10.376s/item) [64.000]
+Train Epoch: 0 [24320/49984 (49%)]	Loss: 1.881460	Time: 649.263s (10.145s/item) [64.000]
+Train Epoch: 0 [24960/49984 (50%)]	Loss: 1.957580	Time: 644.883s (10.076s/item) [64.000]
+Train Epoch: 0 [25600/49984 (51%)]	Loss: 1.961540	Time: 653.005s (10.203s/item) [64.000]
+Train Epoch: 0 [26240/49984 (52%)]	Loss: 1.977690	Time: 661.355s (10.334s/item) [64.000]
+Train Epoch: 0 [26880/49984 (54%)]	Loss: 1.939360	Time: 669.071s (10.454s/item) [64.000]
+Train Epoch: 0 [27520/49984 (55%)]	Loss: 1.921080	Time: 684.668s (10.698s/item) [64.000]
+Train Epoch: 0 [28160/49984 (56%)]	Loss: 2.008150	Time: 678.876s (10.607s/item) [64.000]
+Train Epoch: 0 [28800/49984 (58%)]	Loss: 1.685760	Time: 677.464s (10.585s/item) [64.000]
+Train Epoch: 0 [29440/49984 (59%)]	Loss: 1.851860	Time: 671.258s (10.488s/item) [64.000]
+Train Epoch: 0 [30080/49984 (60%)]	Loss: 1.861300	Time: 674.890s (10.545s/item) [64.000]
