@@ -1,0 +1,50 @@
+Training over 12 global epochs
+Training over 4 local epochs
+model:		 alexnet
+dataset:	 cifar10
+batch_size:	 64
+Num of clients:	 16
+Num of groups:	 8
+running training global epoch0
+running training on group0
+running training for the data of client0
+Files already downloaded and verified
+Files already downloaded and verified
+tensor([[-0.0311, -0.0236, -0.0255,  ..., -0.0123, -0.0030,  0.0116],
+        [ 0.0267,  0.0249,  0.0068,  ..., -0.0196,  0.0078, -0.0301],
+        [-0.0219,  0.0293, -0.0127,  ..., -0.0055, -0.0223, -0.0208],
+        ...,
+        [-0.0304, -0.0047, -0.0153,  ...,  0.0261,  0.0251, -0.0077],
+        [ 0.0285, -0.0118, -0.0108,  ...,  0.0077,  0.0293, -0.0180],
+        [-0.0020, -0.0301, -0.0273,  ...,  0.0063, -0.0203,  0.0077]])
+start train
+/home/sghof001/miniconda3/envs/pysyft/lib/python3.7/site-packages/aiortc/rtcdtlstransport.py:13: CryptographyDeprecationWarning: Python 3.7 is no longer supported by the Python core team and support for it is deprecated in cryptography. The next release of cryptography will remove support for Python 3.7.
+  from cryptography import x509
+Train Epoch: 0 [0/3072 (0%)]	Loss: 2.315780	Time: 566.657s (8.854s/item) [64.000]
+Train Epoch: 0 [640/3072 (21%)]	Loss: 2.320010	Time: 578.720s (9.043s/item) [64.000]
+Train Epoch: 0 [1280/3072 (42%)]	Loss: 2.306040	Time: 592.970s (9.265s/item) [64.000]
+Train Epoch: 0 [1920/3072 (62%)]	Loss: 2.323160	Time: 589.962s (9.218s/item) [64.000]
+Train Epoch: 0 [2560/3072 (83%)]	Loss: 2.328060	Time: 588.612s (9.197s/item) [64.000]
+
+end train
+start train
+Train Epoch: 1 [0/3072 (0%)]	Loss: 2.315710	Time: 590.771s (9.231s/item) [64.000]
+Train Epoch: 1 [640/3072 (21%)]	Loss: 2.331710	Time: 600.459s (9.382s/item) [64.000]
+Train Epoch: 1 [1280/3072 (42%)]	Loss: 2.299980	Time: 599.996s (9.375s/item) [64.000]
+Train Epoch: 1 [1920/3072 (62%)]	Loss: 2.319930	Time: 604.295s (9.442s/item) [64.000]
+Train Epoch: 1 [2560/3072 (83%)]	Loss: 2.319570	Time: 602.164s (9.409s/item) [64.000]
+
+end train
+start train
+Train Epoch: 2 [0/3072 (0%)]	Loss: 2.288870	Time: 598.254s (9.348s/item) [64.000]
+Train Epoch: 2 [640/3072 (21%)]	Loss: 2.276380	Time: 599.287s (9.364s/item) [64.000]
+Train Epoch: 2 [1280/3072 (42%)]	Loss: 2.115400	Time: 603.880s (9.436s/item) [64.000]
+Train Epoch: 2 [1920/3072 (62%)]	Loss: 2.121650	Time: 607.957s (9.499s/item) [64.000]
+Train Epoch: 2 [2560/3072 (83%)]	Loss: 2.203560	Time: 591.645s (9.244s/item) [64.000]
+
+end train
+start train
+Train Epoch: 3 [0/3072 (0%)]	Loss: 2.111090	Time: 598.194s (9.347s/item) [64.000]
+Train Epoch: 3 [640/3072 (21%)]	Loss: 2.330160	Time: 598.015s (9.344s/item) [64.000]
+Train Epoch: 3 [1280/3072 (42%)]	Loss: 2.085910	Time: 605.718s (9.464s/item) [64.000]
+Train Epoch: 3 [1920/3072 (62%)]	Loss: 2.107110	Time: 599.492s (9.367s/item) [64.000]
